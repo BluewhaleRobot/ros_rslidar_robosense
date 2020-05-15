@@ -1,5 +1,5 @@
 #params files 
-ros_rslidar_robosense/rslidar_pointcloud/data/rs_lidar_16/curves.csv
-ros_rslidar_robosense/rslidar_pointcloud/data/rs_lidar_16/ChannelNum.csv
-ros_rslidar_robosense/rslidar_pointcloud/data/rs_lidar_16/angle.csv
+rslidar_pointcloud/data/rs_lidar_16/curves.csv
+rslidar_pointcloud/data/rs_lidar_16/ChannelNum.csv
+rslidar_pointcloud/data/rs_lidar_16/angle.csv
 .vscode
